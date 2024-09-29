@@ -15,7 +15,7 @@ import ReactPlaceholder from 'react-placeholder';
 
 
 const styles ={
-    marginBottom:'5%'
+    marginBottom:'5.5%'
     ,italian:{
         fontFamily:'serif'
     }
